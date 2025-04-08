@@ -88,3 +88,13 @@ rustup component add rustfmt
 ```
 cargo fmt
 ```
+
+## cargo doc
+
+すべての依存クレートが提供するドキュメントをローカルでビルドできる。
+
+```
+cargo doc --open
+```
+
+target/doc/プロジェクト名/index.html にできる
