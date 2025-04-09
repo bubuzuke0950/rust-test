@@ -26,6 +26,8 @@ cargo new プロジェクト名
 ```
 
 こうなるはず
+ソースコードはsrc/に
+パッケージの管理はCargo.toml
 
 ```
 $ cd project1/
